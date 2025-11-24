@@ -1,0 +1,372 @@
+{
+  "program": "경영정보학과",
+  "catalog_year": "2025",
+  "plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6208028",
+          "name": "회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208035",
+          "name": "경영통계학(Business Statistics)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208003",
+          "name": "경영학원론(Principles of Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208066",
+          "name": "비즈니스 커뮤니케이션 실무(Practices in Business Communication)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6208028",
+          "name": "회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208035",
+          "name": "경영통계학(Business Statistics)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208063",
+          "name": "경영과 정보기술(Management and IT)",
+          "type": "전선",
+          "credit": "3-2-2"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6208033",
+          "name": "데이터베이스시스템(Database Systems)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208019",
+          "name": "재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208005",
+          "name": "계량경영학(Introduction to Quantitative Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208069",
+          "name": "프로그래밍언어(Programming Language)",
+          "type": "전필",
+          "credit": "3-2-2"
+        },
+        {
+          "code": "6208004",
+          "name": "경영정보시스템(Management Information Systems)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208007",
+          "name": "마케팅관리론(Marketing Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6208033",
+          "name": "데이터베이스시스템(Database Systems)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208019",
+          "name": "재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208005",
+          "name": "계량경영학(Introduction to Quantitative Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208069",
+          "name": "프로그래밍언어(Programming Language)",
+          "type": "전필",
+          "credit": "3-2-2"
+        },
+        {
+          "code": "6208004",
+          "name": "경영정보시스템(Management Information Systems)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208024",
+          "name": "조직행동론(Organizational Behavior)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208815",
+          "name": "데이터 비즈니스(Data Business)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208811",
+          "name": "창의적 사고와 디지털 비즈니스(Creative Thinking and Digital Business)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208820",
+          "name": "데이터 분석 프로그래밍(Data Analysis Programming)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6208039",
+          "name": "생산관리(Production Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208040",
+          "name": "정보통신경영(Information and Telecommunication Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208813",
+          "name": "시스템 분석 및 설계(System Analysis and Design)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208804",
+          "name": "객체지향 응용소프트웨어 설계(Object-oriented Application Software Design)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208042",
+          "name": "ERP전략 실천(ERP Strategy and Implementation)",
+          "type": "전선",
+          "credit": "3-2-2"
+        },
+        {
+          "code": "6208814",
+          "name": "데이터마이닝(캡스톤디자인)(Data Mining(Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208808",
+          "name": "디지털산업론(Introduction to Digital Industry)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6208040",
+          "name": "정보통신경영(Information and Telecommunication Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208813",
+          "name": "시스템 분석 및 설계(System Analysis and Design)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208044",
+          "name": "공급사슬관리론(Supply Chain Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208816",
+          "name": "인공지능 활용(Applications of Artificial Intelligence)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208807",
+          "name": "비즈니스 프로세스 관리(캡스톤디자인)(Business Process Management(Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208818",
+          "name": "MIS 강독(English Reading on Special Topic of MIS)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208810",
+          "name": "인공지능 경영(캡스톤디자인)(AI Management (Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208819",
+          "name": "개인정보 영향평가 및 관리체계(Priag Irpat Amemmat and Mngament Sytam)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6208046",
+          "name": "e-비즈니스론(e-Business Systems)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208047",
+          "name": "정보보호관리(Information Security Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208809",
+          "name": "데이터 지식경영(캡스톤디자인)(Data Knowledge Management(Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208017",
+          "name": "경영 AI 프로젝트(Business AI Project)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208080",
+          "name": "영업 및 운영계획론(Sales and Operation Planning)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208043",
+          "name": "비즈니스 인텔리전스(Business Intelligence)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208038",
+          "name": "비즈니스 프로그래밍(Business Programming)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208052",
+          "name": "인턴십 I (Internship I)",
+          "type": "일선",
+          "credit": "15-0-16주"
+        },
+        {
+          "code": "6208053",
+          "name": "인턴십 III(Internship III)",
+          "type": "일선",
+          "credit": "3-0-4주"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6208054",
+          "name": "기술경영론(캡스톤디자인)(Technology Management(Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208057",
+          "name": "ERP구축 프로젝트(ERP Implementation Project)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208049",
+          "name": "프로젝트관리(Project Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208055",
+          "name": "의사결정론(Decision Making)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208812",
+          "name": "고급 비즈니스 프로그래밍(캡스톤디자인)(Advanced Business Programming(Capstone Design))",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6208059",
+          "name": "인턴십 II (Internship II)",
+          "type": "일선",
+          "credit": "15-0-16주"
+        },
+        {
+          "code": "6208060",
+          "name": "인턴십 IV(Internship IV)",
+          "type": "일선",
+          "credit": "3-0-4주"
+        }
+      ]
+    }
+  ]
+}

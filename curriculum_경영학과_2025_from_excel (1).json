@@ -1,0 +1,378 @@
+{
+  "program": "경영학과",
+  "catalog_year": "2025",
+  "plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6210001",
+          "name": "*회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210008",
+          "name": "경제학원론(Principles of Economics)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210007",
+          "name": "경영학원론(Principles of Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6210001",
+          "name": "*회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210008",
+          "name": "경제학원론(Principles of Economics)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210007",
+          "name": "경영학원론(Principles of Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6210002",
+          "name": "*원가회계(Cost Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210003",
+          "name": "*마케팅관리론(Marketing Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210004",
+          "name": "*재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210010",
+          "name": "경영통계(Business Statistics)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210012",
+          "name": "조직행동론(Organizational Behavior)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210037",
+          "name": "회사법(Business Law)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210040",
+          "name": "중급회계 I (Intermediate Accounting I)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210045",
+          "name": "증권시장(Security Market)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6210002",
+          "name": "*원가회계(Cost Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210003",
+          "name": "*마케팅관리론(Marketing Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210004",
+          "name": "*재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210014",
+          "name": "관리회계(Management Accounting)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210015",
+          "name": "계량경영분석(Quantitative Business Analysis)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210016",
+          "name": "소비자행동론(Consumer Behavior)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210072",
+          "name": "경영조직론(Organization Theories for Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210078",
+          "name": "전산세무회계(Computerized Tax Accounting)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210041",
+          "name": "중급회계 II (Intermediate Accounting II)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6210064",
+          "name": "*생산관리(캡스톤디자인)(Production Management)(Capstone Design)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210038",
+          "name": "*인적자원관리(Human Resource Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210013",
+          "name": "고급회계(Advanced Accounting)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210018",
+          "name": "세법개론(Introduction to Tax Law)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210063",
+          "name": "마케팅조사론(Marketing Research)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210021",
+          "name": "투자론(Investment Theory)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210022",
+          "name": "국제경영학(International Business)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6210064",
+          "name": "*생산관리(캡스톤디자인)(Production Management)(Capstone Design)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210038",
+          "name": "*인적자원관리(Human Resource Management)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210023",
+          "name": "세무회계(Tax Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210024",
+          "name": "회계감사(Auditing)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210033",
+          "name": "경영정보시스템(Management Information System)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210073",
+          "name": "파생상품론(캡스톤디자인)(Derivatives)(Capstone Design)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210074",
+          "name": "커뮤니케이션과 협상론(캡스톤디자인)(Communication & Negotiation)(Capstone Design)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210066",
+          "name": "유통경로론(캡스톤디자인)(Marketing Channels)(Capstone Design)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210047",
+          "name": "서비스운영관리(Service Operations Management)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210077",
+          "name": "비즈니스 모델 혁신(Business Model Innovation)",
+          "type": "전선",
+          "credit": "3-3-0"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6210033",
+          "name": "경영정보시스템(Management Information System)",
+          "type": "전필",
+          "credit": "3-2-2"
+        },
+        {
+          "code": "6210067",
+          "name": "전략적 관리회계(캡스톤디자인)(Strategic Management Accounting)(Capstone Design)",
+          "type": "전필",
+          "credit": "3-0-0"
+        },
+        {
+          "code": "6210035",
+          "name": "품질경영(Quality Management)",
+          "type": "전선",
+          "credit": "3-0-0"
+        },
+        {
+          "code": "6210068",
+          "name": "경영전략론(캡스톤디자인)(Strategic Management)(Capstone Design)",
+          "type": "전선",
+          "credit": "3-0-0"
+        },
+        {
+          "code": "6210042",
+          "name": "고용관계론(Labour Relations)",
+          "type": "전선",
+          "credit": "3-0-0"
+        },
+        {
+          "code": "6210070",
+          "name": "광고론(캡스톤디자인)(Advertising)(Capstone Design)",
+          "type": "전선",
+          "credit": "3-0-0"
+        },
+        {
+          "code": "6210079",
+          "name": "재무제표분석(Financial Statement Analysis)",
+          "type": "전선",
+          "credit": "3-0-0"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6210080",
+          "name": "회계학특강(Special Topics in Accounting)",
+          "type": "전필",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210044",
+          "name": "기업윤리(Business Ethics)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210076",
+          "name": "경영분석(Business Analysis)",
+          "type": "전선",
+          "credit": "3-3-0"
+        },
+        {
+          "code": "6210062",
+          "name": "지역산업의 이해(Understandings of Chungbuk Business)",
+          "type": "전선",
+          "credit": "2-1-2"
+        },
+        {
+          "code": "6210055",
+          "name": "인턴십 II (Internship II)",
+          "type": "일선",
+          "credit": "12-0-15주"
+        },
+        {
+          "code": "6210055",
+          "name": "인턴십 IV (Internship IV)",
+          "type": "일선",
+          "credit": "6-0-15주"
+        },
+        {
+          "code": "6210057",
+          "name": "인턴십 VI (Internship VI)",
+          "type": "일선",
+          "credit": "6-0-4주"
+        }
+      ]
+    }
+  ]
+}

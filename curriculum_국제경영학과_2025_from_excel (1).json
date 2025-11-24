@@ -1,0 +1,384 @@
+{
+  "program": "국제경영학과",
+  "catalog_year": "2025",
+  "plan": [
+    {
+      "year": 1,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6209044",
+          "name": "경제학원론(Principles of Economics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209074",
+          "name": "경영통계학(Business Statistics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209075",
+          "name": "경영학원론(Principles of Management)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209100",
+          "name": "글로벌비즈니스의 이해(Understanding of Global Business)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209035",
+          "name": "회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6209044",
+          "name": "경제학원론(Principles of Economics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209074",
+          "name": "경영통계학(Business Statistics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209075",
+          "name": "경영학원론(Principles of Management)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209100",
+          "name": "글로벌비즈니스의 이해(Understanding of Global Business)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209035",
+          "name": "회계원리(Principles of Accounting)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6209024",
+          "name": "미시경제이론(Micro-Economic Theory)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209057",
+          "name": "국제상무론(Foreign Trade Practices)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209078",
+          "name": "e-비즈니스론(Principles of e-Business)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209080",
+          "name": "글로벌 고객의 이해(Introduction to Global Consumer Behavior)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209077",
+          "name": "재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209097",
+          "name": "인적자원관리(Human Resource Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209101",
+          "name": "글로벌경영(Global Management)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6209001",
+          "name": "거시경제이론(Macro-Economic Theory)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209036",
+          "name": "금융기관론(Banking and Financial Institutions)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209039",
+          "name": "비즈니스영어회화(Business English Conversation)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209078",
+          "name": "e-비즈니스론(Principles of e-Business)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209108",
+          "name": "글로벌무역경영(Global Trade Management)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209077",
+          "name": "재무관리(Financial Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209097",
+          "name": "인적자원관리(Human Resource Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209101",
+          "name": "글로벌경영(Global Management)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6209084",
+          "name": "글로벌기업사례(Case Studies of Global Enterprises)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209087",
+          "name": "글로벌 중국시장의 이해(Global China-market Understandings)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209093",
+          "name": "해외투자론(Foreign Direct Investment)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209102",
+          "name": "글로벌재무론(Global Financial Management)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209113",
+          "name": "물류 및 운송론(캡스톤디자인)(Logistics and Transportation Capstone Design)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209083",
+          "name": "경영전략(Strategic Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209112",
+          "name": "마케팅관리(캡스톤디자인)(Marketing Management Capstone Design)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6209006",
+          "name": "국제금융론(International Banking and Finance)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209009",
+          "name": "국제마케팅(International Marketing)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209042",
+          "name": "국제물류 및 운송론(International Logistics and Transportation)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209089",
+          "name": "지역연구I:유럽(International Area Studies I)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209090",
+          "name": "국제비즈니스커뮤니케이션(International Business Communication)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209092",
+          "name": "글로벌경제론(Global Economics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209103",
+          "name": "글로벌전략경영(Global Strategic Management)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209111",
+          "name": "글로벌 리더십 전략(Global Leadership Strategy)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209114",
+          "name": "글로벌벤처기업전략(캡스톤디자인)(Born Global Company Strategic Management Capstone Design)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209083",
+          "name": "경영전략(Strategic Management)",
+          "type": "전필",
+          "credit": "3"
+        },
+        {
+          "code": "6209112",
+          "name": "마케팅관리(캡스톤디자인)(Marketing Management Capstone Design)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 1,
+      "courses": [
+        {
+          "code": "6209095",
+          "name": "인턴십Ⅰ(InternshipⅠ)",
+          "type": "일선",
+          "credit": "3"
+        },
+        {
+          "code": "6209096",
+          "name": "인턴십Ⅱ(InternshipⅡ)",
+          "type": "일선",
+          "credit": "3"
+        },
+        {
+          "code": "6209067",
+          "name": "국제경영원강(Selected Readings in International Business)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209071",
+          "name": "지역연구II:미주(International Area StudiesII)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209094",
+          "name": "글로벌시대의 중국시장과 중국투자(Global China-market Research & Investment)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209105",
+          "name": "글로벌마케팅세미나(Seminar on Global Marketing)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209065",
+          "name": "국제경영세미나(Seminar on International Business)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "semester": 2,
+      "courses": [
+        {
+          "code": "6209095",
+          "name": "인턴십Ⅰ(InternshipⅠ)",
+          "type": "일선",
+          "credit": "3"
+        },
+        {
+          "code": "6209096",
+          "name": "인턴십Ⅱ(InternshipⅡ)",
+          "type": "일선",
+          "credit": "3"
+        },
+        {
+          "code": "6209046",
+          "name": "국제통상론(Theory of Global Economy)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209099",
+          "name": "글로벌기업의윤리(Global Business Ethics)",
+          "type": "전선",
+          "credit": "3"
+        },
+        {
+          "code": "6209073",
+          "name": "지역연구III:아시아(International Area Studies III)",
+          "type": "전필",
+          "credit": "3"
+        }
+      ]
+    }
+  ]
+}
